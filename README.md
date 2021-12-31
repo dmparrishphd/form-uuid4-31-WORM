@@ -1,2 +1,1 @@
-# form-uuid4-31-WORM
-A compact format for UUID4
+[README](https://github.com/dmparrishphd/form-uuid4-31-CORW/blob/main/README.md).
